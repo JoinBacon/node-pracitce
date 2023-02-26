@@ -1,0 +1,22 @@
+{
+  "name": "practice2",
+  "version": "1.0.0",
+  "description": "Practice work for my university",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Maxim Berkovich",
+  "license": "ISC",
+  "devDependencies": {
+    "engine-version": "^1.0.2",
+    "nodemon": "^2.0.20"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
